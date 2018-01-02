@@ -19,4 +19,8 @@ class Database
         $dbModel->pass = '';
         $dbModel->name = '';
     }
+
+    public function query($sql){
+
+    }
 }
