@@ -2,14 +2,14 @@
 /**
  * Created by PhpStorm.
  * User: xacam
- * Date: 31.12.2017
- * Time: 19:11
+ * Date: 2.01.2018
+ * Time: 13:55
  */
 
 namespace Kodmoz;
 
 
-class DatabaseController
+class Database
 {
     public function __construct()
     {

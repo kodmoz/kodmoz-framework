@@ -13,4 +13,3 @@ $configuration = new Config();
 $kodmoz = new Kodmoz();
 
 $kodmoz->kodmozInit($configuration);
-
